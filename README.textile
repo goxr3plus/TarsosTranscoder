@@ -1,3 +1,7 @@
+h1. STARTING MAINTAIN OF TARSOS TRANSCODER
+
+---------------
+
 h1. TarsosTranscoder
 
 TarsosTranscoder is a Java library that enables you to quickly play and process audio encoded as MP3, Flac, Vorbis or about any other audio format from a Java environment. It also provides support for @http@ and other streams. Under the hood it uses platform dependent libraries which are provided automatically for Windows, Mac OS X and Linux. 
